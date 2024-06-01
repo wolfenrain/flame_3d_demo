@@ -1,0 +1,3 @@
+[submodule "packages/jolt/dependencies/jolt"]
+	path = packages/jolt/dependencies/jolt
+	url = https://github.com/jrouwe/JoltPhysics.git

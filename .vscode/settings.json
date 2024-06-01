@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "jolt_ffi.cc": "c",
+        "taperedcapsuleshape.h": "c"
+    }
+}
